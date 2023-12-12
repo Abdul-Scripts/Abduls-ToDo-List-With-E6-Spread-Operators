@@ -50,8 +50,10 @@ function App() {
       <div>
         <ul>{itemList()}</ul>
       </div>
+      <div class="footer">
+        <p>Made with ❤️ by Abdul Wahib | <a class="navigation-link" target="_blank" rel="noreferrer" href="https://abdul-wahib.onrender.com">Visit me here</a></p>
+      </div>
     </div>
-    
   );
 }
 
