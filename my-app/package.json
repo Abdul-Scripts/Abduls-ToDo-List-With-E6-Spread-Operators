@@ -14,7 +14,6 @@
     "typescript": "3.3.3"
   },
   "scripts": {
-    "start": "react-scripts start",
     "build": "babel src -d lib",
     "test": "jest",
     "eject": "react-scripts eject"
